@@ -9,7 +9,7 @@
 
 **New Vision:**
 Build a unified custody platform leveraging:
-- **Institutional-grade infrastructure**: Schwab, Fidelity, BNY Mellon
+- **Institutional-grade infrastructure**: Schwab (existing), BNY Mellon (Phase 1 onboarding)
 - **Innovative crypto platforms**: Plume.org for RWA/tokenization
 - **Advanced TradFi strategies**: Lydia HFT for yield enhancement
 
@@ -22,9 +22,9 @@ Build a unified custody platform leveraging:
 **TradFi Infrastructure:**
 
 ✅ **Previous:** "Integrate 2nd qualified custodian (Fidelity or Schwab Advisor Services)"
-✅ **Updated:** "Integrate Fidelity Advisor Services (2nd custodian alongside existing Schwab)"
+✅ **Updated:** "Onboard BNY Mellon as 2nd custodian (alongside existing Schwab)"
 
-**Key Change:** Acknowledges they already work with Schwab, so Fidelity is the new addition
+**Key Change:** Acknowledges they already work with Schwab, so BNY Mellon is the strategic addition in Phase 1. BNY Mellon provides both TradFi custody AND complete tech infrastructure for future crypto integration.
 
 **NEW Addition:**
 ✅ "Integrate Lydia HFT for enhanced TradFi yield strategies"
@@ -33,7 +33,7 @@ Build a unified custody platform leveraging:
 
 **Updated Milestone:**
 - 50% of clients onboarded to portal
-- 2 custodians operational (Schwab + Fidelity)
+- 2 custodians operational (Schwab + BNY Mellon)
 - Lydia HFT strategies available
 
 ---
@@ -75,32 +75,34 @@ Build a unified custody platform leveraging:
 ### Phase 3: Advanced Capabilities (Months 19-36) | $1.0M
 
 **Updated Milestone:**
-- 4+ custodians (Schwab, Fidelity, BNY Mellon, +1)
+- 4+ custodians (Schwab, BNY Mellon, +2 additional TBD)
 - Full Plume.org + Lydia HFT integration
 - $620M+ AUM
 - $6-9M annual revenue
 
-**Key Change:** Explicitly names the 3 core custodians with room for 4th
+**Key Change:** Explicitly names the 2 core custodians (Schwab + BNY Mellon) with room for 2 additional custodians to be determined based on market conditions and client needs
 
 ---
 
 ## 🏢 Strategic Partners Overview
 
-### Traditional Custody
+### Traditional & Digital Custody
 
-1. **Charles Schwab** (Existing)
+1. **Charles Schwab** (Existing - Current)
    - Current custody partner
    - Proven relationship
    - Client familiarity
+   - TradFi securities custody
 
-2. **Fidelity Advisor Services** (Phase 1)
-   - RIA-focused platform
-   - Competitive pricing
-   - Risk diversification
+2. **BNY Mellon** (Phase 1 Onboarding)
+   - Enterprise-grade TradFi custody (Phase 1)
+   - Complete digital assets tech infrastructure (Phase 2)
+   - Seamless TradFi → Crypto bridge
+   - Institutional credibility
 
-### Digital Assets
+### Digital Assets Platform
 
-3. **BNY Mellon Digital Assets** (Phase 2)
+3. **BNY Mellon Digital Assets** (Phase 2 - Crypto Expansion)
    - Enterprise-grade technology infrastructure
    - Complete custody solution
    - Institutional credibility
@@ -148,12 +150,12 @@ Build a unified custody platform leveraging:
 - ✅ Can be marketed to existing clients
 - ✅ No crypto regulatory concerns
 
-**Fidelity Advisor Services:**
-- ✅ RIA-focused (vs retail-focused Schwab)
-- ✅ Competitive custody fees
-- ✅ Reduces single-custodian risk
-- ✅ Familiar to institutional clients
-- ✅ Strong tech platform
+**BNY Mellon (Phase 1 - TradFi Custody):**
+- ✅ Institutional-grade custody infrastructure
+- ✅ Reduces single-custodian risk (diversification from Schwab)
+- ✅ Enterprise credibility and brand recognition
+- ✅ Foundation for future crypto integration (same institution)
+- ✅ Seamless client transition capability
 
 ---
 
@@ -163,7 +165,7 @@ Build a unified custody platform leveraging:
 
 **For Traditional Investors:**
 - ✅ Enhanced yields via Lydia HFT (better than standard equities/bonds)
-- ✅ Choice between Schwab and Fidelity (competitive pricing)
+- ✅ Institutional-grade custody via Schwab and BNY Mellon (reduced counterparty risk)
 - ✅ Same trusted RIA relationship
 
 **For Forward-Looking Investors:**
@@ -205,9 +207,9 @@ Build a unified custody platform leveraging:
 ## 🚀 Implementation Priority
 
 ### Month 1-6 (Immediate Focus)
-1. Fidelity Advisor Services onboarding
+1. BNY Mellon custody onboarding (TradFi)
 2. Lydia HFT integration and testing
-3. Client portal MVP with Schwab + Fidelity aggregation
+3. Client portal MVP with Schwab + BNY Mellon aggregation
 
 ### Month 7-18 (Crypto Foundation)
 1. BNY Mellon Digital Assets custody onboarding
@@ -264,22 +266,24 @@ Build a unified custody platform leveraging:
 ```diff
 Phase 1: TradFi Infrastructure
 - OLD: Integrate 2nd custodian (Fidelity or Schwab)
-+ NEW: Integrate Fidelity (2nd custodian alongside existing Schwab)
++ NEW: Onboard BNY Mellon (2nd custodian alongside existing Schwab)
 + NEW: Integrate Lydia HFT for enhanced yields
++ WHY: BNY Mellon provides both TradFi custody AND tech foundation for future crypto
 
 Phase 2: Crypto Integration
 - OLD: Onboard crypto custodian (Coinbase/BitGo/Anchorage)
-+ NEW: Onboard BNY Mellon Digital Assets (enterprise infrastructure)
++ NEW: Onboard BNY Mellon Digital Assets (same institution, seamless integration)
 + NEW: Integrate Plume.org for RWA/tokenization/strategies
++ WHY: Leverage existing BNY Mellon relationship for crypto expansion
 
 Phase 3: Advanced Capabilities
 - OLD: 4+ custodians (generic)
-+ NEW: Schwab, Fidelity, BNY Mellon, +1 (specific)
++ NEW: Schwab, BNY Mellon, +2 additional TBD (strategic flexibility)
 + NEW: Full Plume.org + Lydia HFT integration
 
 Vision Statement
 - OLD: Generic multi-custodian approach
-+ NEW: Specific institutional partners + innovative platforms
++ NEW: Schwab + BNY Mellon as core institutional partners + innovative platforms (Plume, Lydia)
 ```
 
 ---

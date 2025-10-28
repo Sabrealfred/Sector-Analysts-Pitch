@@ -159,13 +159,24 @@ export const Slide10ValuationFramework: SlideDefinition = {
                   <td className="p-3 text-right font-semibold">4.8x</td>
                   <td className="p-3 text-right font-semibold">69%</td>
                 </tr>
-                <tr className="bg-green-50">
+                <tr className="border-b border-slate-200">
                   <td className="p-3 font-semibold">Strategic Exit</td>
                   <td className="p-3 text-right">$8.0M</td>
                   <td className="p-3 text-right text-slate-600">4.0x (strategic premium)</td>
                   <td className="p-3 text-right">$32.0M</td>
                   <td className="p-3 text-right font-semibold text-green-600">4.6x</td>
                   <td className="p-3 text-right font-semibold text-green-600">66%</td>
+                </tr>
+                <tr className="bg-gradient-to-r from-emerald-50 to-emerald-100 border-2 border-emerald-500">
+                  <td className="p-3 font-bold text-emerald-900">
+                    Fintech Exit
+                    <div className="text-[10px] font-normal text-emerald-700">Option C - 24mo hold</div>
+                  </td>
+                  <td className="p-3 text-right font-semibold">$9.0M</td>
+                  <td className="p-3 text-right text-emerald-700 font-semibold">5.0x (fintech multiple)</td>
+                  <td className="p-3 text-right font-semibold">$45.0M</td>
+                  <td className="p-3 text-right font-bold text-emerald-900">6.4x</td>
+                  <td className="p-3 text-right font-bold text-emerald-900">145%</td>
                 </tr>
               </tbody>
             </table>
@@ -176,7 +187,8 @@ export const Slide10ValuationFramework: SlideDefinition = {
             <div>• Base Case: Full technology roadmap implementation, crypto integration (167% revenue growth over 3 years)</div>
             <div>• Growth Case: Accelerated client acquisition + expanded product suite (217% revenue growth)</div>
             <div>• Strategic Exit: Premium valuation from acquirer seeking RIA platform + crypto capabilities</div>
-            <div>• All scenarios assume $7M initial investment and 3-year hold period</div>
+            <div className="text-emerald-700 font-semibold">• Fintech Exit (Option C): $1M initial investment for 15% equity, aggressive growth to $9M revenue in 24 months (3x AUM to $927M), exit at 5-7x fintech multiple (Stripe, Robinhood, Coinbase valuations). Fintech buyers value tech platforms at 5-7x revenue vs 2-3x for traditional RIAs. Seller proceeds: $38.3M (85% stake) + $1M (initial capital) = $39.3M total, representing 5.6x better return than Option A immediate sale.</div>
+            <div>• Traditional scenarios (Options A/B) assume $7M initial investment and 3-year hold period</div>
           </div>
         </div>
       </div>

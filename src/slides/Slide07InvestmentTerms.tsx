@@ -3,7 +3,7 @@ import type { SlideDefinition } from '../types/slides';
 export const Slide07InvestmentTerms: SlideDefinition = {
   type: 'content',
   title: 'Acquisition Structure',
-  subtitle: 'Flexible deal structure with seller financing and earnout options',
+  subtitle: 'Three strategic paths: Traditional acquisition, seller financing, or fintech growth partnership',
   content: (
     <div className="space-y-8">
       {/* Purchase Price Breakdown */}
@@ -21,7 +21,7 @@ export const Slide07InvestmentTerms: SlideDefinition = {
       </div>
 
       {/* Deal Structure Options */}
-      <div className="grid grid-cols-1 md:grid-cols-2 gap-6 text-sm md:text-base">
+      <div className="grid grid-cols-1 md:grid-cols-3 gap-4 text-xs md:text-sm">
         <div className="border border-slate-300">
           <div className="bg-slate-900 text-white p-4">
             <div className="text-sm uppercase tracking-wide text-slate-400 mb-1">Structure Option A</div>
@@ -91,6 +91,60 @@ export const Slide07InvestmentTerms: SlideDefinition = {
             <div className="pt-4 border-t border-slate-200">
               <div className="text-sm font-semibold uppercase tracking-wide text-slate-900 mb-2">Buyer Profile</div>
               <div className="text-sm text-slate-700 leading-relaxed">Lower upfront capital requirement with shared growth incentives</div>
+            </div>
+          </div>
+        </div>
+
+        <div className="border-2 border-emerald-500 relative">
+          <div className="absolute -top-3 left-4 bg-emerald-500 text-white px-3 py-1 text-xs font-bold uppercase tracking-wide">
+            Best Return for Sellers
+          </div>
+          <div className="bg-gradient-to-br from-emerald-900 to-emerald-800 text-white p-4">
+            <div className="text-sm uppercase tracking-wide text-emerald-300 mb-1">Structure Option C</div>
+            <h3 className="text-lg font-semibold">Fintech Growth Partnership</h3>
+          </div>
+          <div className="p-5 space-y-4">
+            <div>
+              <div className="text-3xl font-light text-emerald-900 mb-1">$1M → $22M+</div>
+              <div className="text-sm text-emerald-700 font-semibold">Initial Investment → 24mo Exit Value</div>
+            </div>
+            <div className="pt-4 border-t border-slate-200">
+              <div className="text-sm font-semibold uppercase tracking-wide text-slate-900 mb-3">Partnership Terms</div>
+              <div className="space-y-3 text-sm">
+                <div className="bg-emerald-50 p-3">
+                  <div className="font-semibold text-emerald-900 mb-1">$1M Growth Capital Now</div>
+                  <ul className="space-y-1 text-slate-700 text-xs">
+                    <li>• 15% equity stake for fintech partner</li>
+                    <li>• Deploy immediately for Phase 1 tech</li>
+                    <li>• No debt, no earnout complications</li>
+                  </ul>
+                </div>
+                <div className="bg-blue-50 p-3">
+                  <div className="font-semibold text-blue-900 mb-1">Partial Buyout at Month 24</div>
+                  <ul className="space-y-1 text-slate-700 text-xs">
+                    <li>• Target: 3x AUM growth ($309M → $927M)</li>
+                    <li>• Revenue: $3M → $9M (3x growth)</li>
+                    <li>• Exit at 5x revenue (fintech multiple)</li>
+                    <li>• Valuation: $45M (vs $7M today)</li>
+                  </ul>
+                </div>
+                <div className="bg-purple-50 p-3">
+                  <div className="font-semibold text-purple-900 mb-1">Seller Total Proceeds</div>
+                  <ul className="space-y-1 text-slate-700 text-xs">
+                    <li>• Keep $1M investment as bonus</li>
+                    <li>• Sell 85% stake: $38.3M</li>
+                    <li>• Total value: $39.3M</li>
+                    <li>• <strong>5.6x better than Option A ($7M)</strong></li>
+                  </ul>
+                </div>
+              </div>
+            </div>
+            <div className="pt-4 border-t border-slate-200">
+              <div className="text-sm font-semibold uppercase tracking-wide text-slate-900 mb-2">Why This Works</div>
+              <div className="text-sm text-slate-700 leading-relaxed">
+                Fintech acquirers pay 5-7x revenue (vs 2-3x for RIAs). By building tech platform first,
+                we unlock fintech valuations. Sellers keep upside while getting immediate capital injection.
+              </div>
             </div>
           </div>
         </div>

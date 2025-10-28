@@ -2,6 +2,16 @@
 
 A comprehensive investor presentation for the strategic acquisition of Sector Analysts, LLC - an SEC-registered investment advisor with $309M AUM, 800 clients, and significant growth potential through technology modernization and crypto integration.
 
+## 🚀 Quick Deploy
+
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FSabrealfred%2FSector-Analysts-Pitch&project-name=sector-analysts-pitch&repository-name=sector-analysts-pitch)
+
+**Or deploy manually:**
+1. Fork this repo
+2. Go to [vercel.com/new](https://vercel.com/new)
+3. Import your fork
+4. Click Deploy!
+
 ## Overview
 
 This pitch deck presents a compelling acquisition opportunity for Sector Analysts, LLC (CRD #169789), highlighting:

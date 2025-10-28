@@ -14,9 +14,10 @@ export const Slide04MultiCustodianRoadmap: SlideDefinition = {
           <div>
             <h3 className="text-2xl font-light mb-3">Strategic Vision</h3>
             <p className="text-lg text-blue-100 leading-relaxed">
-              Build a unified custody platform that allows clients to seamlessly manage traditional securities
-              and digital assets across multiple qualified custodians, reducing counterparty risk while enabling
-              competitive fee structures and expanded product offerings.
+              Build a unified custody platform leveraging institutional-grade infrastructure (Schwab, Fidelity, BNY Mellon)
+              integrated with innovative crypto platforms (Plume.org for RWA/tokenization) and advanced TradFi strategies
+              (Lydia HFT). This enables clients to seamlessly manage traditional securities and digital assets while
+              reducing counterparty risk and accessing best-in-class yield strategies across both ecosystems.
             </p>
           </div>
         </div>
@@ -42,11 +43,15 @@ export const Slide04MultiCustodianRoadmap: SlideDefinition = {
               <ul className="space-y-2 text-sm text-blue-800">
                 <li className="flex items-start gap-2">
                   <CheckCircle2 className="text-blue-600 flex-shrink-0 mt-0.5" size={16} />
-                  <span>Integrate 2nd qualified custodian (Fidelity or Schwab Advisor Services)</span>
+                  <span>Integrate Fidelity Advisor Services (2nd custodian alongside existing Schwab)</span>
                 </li>
                 <li className="flex items-start gap-2">
                   <CheckCircle2 className="text-blue-600 flex-shrink-0 mt-0.5" size={16} />
-                  <span>Build custody aggregation API layer</span>
+                  <span>Build custody aggregation API layer (Schwab + Fidelity)</span>
+                </li>
+                <li className="flex items-start gap-2">
+                  <CheckCircle2 className="text-blue-600 flex-shrink-0 mt-0.5" size={16} />
+                  <span>Integrate Lydia HFT for enhanced TradFi yield strategies</span>
                 </li>
                 <li className="flex items-start gap-2">
                   <CheckCircle2 className="text-blue-600 flex-shrink-0 mt-0.5" size={16} />
@@ -105,11 +110,15 @@ export const Slide04MultiCustodianRoadmap: SlideDefinition = {
               <ul className="space-y-2 text-sm text-purple-800">
                 <li className="flex items-start gap-2">
                   <CheckCircle2 className="text-purple-600 flex-shrink-0 mt-0.5" size={16} />
-                  <span>Onboard qualified crypto custodian (Coinbase Prime, BitGo, Anchorage)</span>
+                  <span>Onboard BNY Mellon Digital Assets (enterprise-grade tech infrastructure)</span>
                 </li>
                 <li className="flex items-start gap-2">
                   <CheckCircle2 className="text-purple-600 flex-shrink-0 mt-0.5" size={16} />
-                  <span>Build crypto custody API integration</span>
+                  <span>Integrate Plume.org for RWA tokenization and crypto strategies</span>
+                </li>
+                <li className="flex items-start gap-2">
+                  <CheckCircle2 className="text-purple-600 flex-shrink-0 mt-0.5" size={16} />
+                  <span>Build crypto custody API integration (BNY + Plume)</span>
                 </li>
                 <li className="flex items-start gap-2">
                   <CheckCircle2 className="text-purple-600 flex-shrink-0 mt-0.5" size={16} />
@@ -147,7 +156,7 @@ export const Slide04MultiCustodianRoadmap: SlideDefinition = {
 
           <div className="mt-4 pt-4 border-t border-purple-300">
             <div className="text-sm text-purple-700">
-              <strong>Key Milestone:</strong> 20% of AUM includes digital assets | 1 crypto custodian operational
+              <strong>Key Milestone:</strong> 20% of AUM includes digital assets | BNY Mellon + Plume.org integrated | Lydia HFT strategies active
             </div>
           </div>
         </div>
@@ -210,7 +219,7 @@ export const Slide04MultiCustodianRoadmap: SlideDefinition = {
 
           <div className="mt-4 pt-4 border-t border-emerald-300">
             <div className="text-sm text-emerald-700">
-              <strong>Key Milestone:</strong> 4+ custodians | $620M+ AUM | $6-9M annual revenue
+              <strong>Key Milestone:</strong> 4+ custodians (Schwab, Fidelity, BNY Mellon, +1) | Full Plume.org + Lydia HFT integration | $620M+ AUM | $6-9M annual revenue
             </div>
           </div>
         </div>
